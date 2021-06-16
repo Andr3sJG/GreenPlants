@@ -51,4 +51,6 @@ func main() {
 	}
 	print2D(arrArr)
 	dij(arrArr,0)
+
+	dynamo()
 }
